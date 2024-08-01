@@ -1,2 +1,2 @@
-# This is a mini simulation project. It's about simulating a simple optical communication system from TX to RX, with all the necessary steps including bit generation, optical carrying and coherent detection.
+# This is a mini simulation project. It's about simulating a simple optical communication system from TX to RX, with all the necessary steps including bit generation, FEC coding, optical carrying and coherent detection.
 # This was done jointly with Salma Elmiz and Tommaso McPhee, both optical engineers.
